@@ -30,9 +30,8 @@ ComedyBot is an AI-powered chatbot with a sense of humor. Ask it anything, and i
 | Layer | Technology |
 |-------|-----------|
 | AI Model | Claude (Anthropic) |
-| Frontend | React / Next.js |
-| Styling | Tailwind CSS |
-| API | Anthropic Messages API |
+| Frontend | StreamLit |
+| API | Groq |
 
 ---
 
