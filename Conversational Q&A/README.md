@@ -38,10 +38,4 @@ ComedyBot is an AI-powered chatbot with a sense of humor. Ask it anything, and i
 
 
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">Made with ❤️ and bad puns</p>           
